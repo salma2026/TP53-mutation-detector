@@ -1,0 +1,4 @@
+tabulate
+biopython
+Datetime
+pytest
